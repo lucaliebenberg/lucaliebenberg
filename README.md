@@ -10,7 +10,7 @@ I am a UX/UI designer, Developer and Blockchain enthusiast
 * 🖥️  See my portfolio at [luca.liebenberg.com](http://lucaliebenberg.com)
 * ✉️  You can contact me at [liebenbergluca@gmail.com](mailto:liebenbergluca@gmail.com)
 * 🧠  I'm learning React Native
-* ⚡  I'm an aspiring Blockchain/Web3 Developer
+* ⚡  I'm an aspiring Blockchain/Web3 Developer/App Developer
 
 ### Skills
 
