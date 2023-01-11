@@ -9,7 +9,7 @@ I am a UX/UI designer, Developer and Blockchain enthusiast
 * 🌍  I'm based in Cape Town, South Africa
 * 🖥️  See my portfolio at [luca.liebenberg.com](http://lucaliebenberg.com)
 * ✉️  You can contact me at [liebenbergluca@gmail.com](mailto:liebenbergluca@gmail.com)
-* 🧠  I'm learning React Native
+* 🧠  I'm learning React Native and Node.js/Express.js
 * ⚡  I'm an aspiring Blockchain/Web3 Developer/App Developer
 
 ### Skills
