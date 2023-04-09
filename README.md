@@ -35,7 +35,6 @@ I am a UX/UI designer, Developer and Blockchain enthusiast
 
 <p align="left"> <a href="https://discord.com/users/_lucaliebenberg#5967" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/lucaliebenberg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/luca-liebenberg/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
 
 ## <b>My GitHub Stats</b>
 
