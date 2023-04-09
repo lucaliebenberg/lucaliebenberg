@@ -30,19 +30,19 @@ I am a UX/UI designer, Developer and Blockchain enthusiast
 </p>
 
 
-   <!--Front End-->
+<!--Front End-->
 ```mermaid
 graph TD;
     Front-End-->HTML5;
     Front-End-->CSS3;
     Front-End-->JavaScript;
-    Front-End-->Tailwind;
-    Front-End-->TypeScript;
+    Front-End-->Angular;
     Front-End-->React;
+    Front-End-->XML;
     Front-End-->JSON;
-    Front-End-->Storybook;
-    Front-End-->Git;
-    Front-End-->React Native;
+    Front-End-->Vue;
+    Front-End-->TypeScript;
+    Front-End-->JQuery;
    ```
   
 
