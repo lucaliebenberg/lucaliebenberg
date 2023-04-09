@@ -41,7 +41,7 @@ graph TD;
     Front-End-->React;
     Front-End-->JSON;
     Front-End-->Storybook;
-    Front-End-->TypeScript;
+    Front-End-->Git;
     Front-End-->React Native;
    ```
   
