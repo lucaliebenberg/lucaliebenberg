@@ -9,7 +9,7 @@ I am a UX/UI designer, Developer and Blockchain enthusiast
 * 🌍  I'm based in Cape Town, South Africa
 * 🖥️  See my portfolio at [My Portfolio](http://lucaliebenberg.com)
 * ✉️  You can contact me at [liebenbergluca@gmail.com](mailto:liebenbergluca@gmail.com)
-* 🚀  I'm currently working on [A basic Flutter App](http://github.com/lucaliebenberg/wordpair_generator)
+* 🚀  I'm currently working on [A Flutter App](http://github.com/lucaliebenberg/wordpair_generator)
 * 🧠  I'm learning Puppeteer, Flutter & Svelte
 * 🤝  I'm open to collaborating on Frontend | Mobile App projects
 * ⚡  I'm secretly a SIM hacker....😈
