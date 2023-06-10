@@ -14,8 +14,6 @@ I am a UX/UI designer, Developer and Blockchain enthusiast
 * 🤝  I'm open to collaborating on Frontend | Mobile App projects
 * ⚡  I'm secretly a SIM hacker....😈
 
-<a href="https://www.github.com/lucaliebenberg" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/lucaliebenberg?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
