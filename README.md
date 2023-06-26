@@ -78,4 +78,4 @@ graph TD;
 
 
 ## Contributions 🐍 
-![snake gif](https://github.com/lucaliebenberg/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/lucaliebenberg/lucaliebenberg/blob/output/github-contribution-grid-snake.gif)
