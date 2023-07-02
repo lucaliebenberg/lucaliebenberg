@@ -12,7 +12,7 @@ I am a UX/UI designer, Developer and Blockchain enthusiast
 * 🚀  I'm currently working on a [Flutter App](http://github.com/lucaliebenberg/wordpair_generator)
 * 🧠  I'm currently learning Advanced React, D3.js, Python & Svelte
 * 🤝  I'm open to collaborating on Frontend | Mobile App projects
-* ⚡  I'm secretly a SIM hacker....😈
+* ⚡  In my free time, I enjoy hitting the gym & learning business
 
 
 ### Skills
