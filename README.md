@@ -43,21 +43,6 @@ I am a UX/UI designer, Developer and Blockchain enthusiast
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
 
-<!--Front End-->
-```mermaid
-graph TD;
-    Front-End-->HTML5;
-    Front-End-->Tailwind;
-    Front-End-->JavaScript;
-    Front-End-->Nextjs;
-    Front-End-->Reactjs;
-    Front-End-->Storybook;
-    Front-End-->Python;
-    Front-End-->ReactNative;
-    Front-End-->TypeScript;
-    Front-End-->Git;
-   ```
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/lucaliebenberg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/luca-liebenberg/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
