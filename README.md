@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luca Liebenberg
 =======================================================================================================================================
 
-Designer | Developer | Web3
+** Beware of the developer **
 ---------------------------
 
-I am a UX/UI designer, Developer and Blockchain enthusiast
+I am a Software Developer | UX Designer
 
 * 🌍  I'm based in Cape Town, South Africa
 * 🖥️  See my portfolio at [lucaliebenberg.com](http://lucaliebenberg.com)
 * ✉️  You can contact me at [liebenbergluca@gmail.com](mailto:liebenbergluca@gmail.com)
-* 🧠  I'm currently learning Go, Advanced TypeScript & Security
-* ⚡  In my free time, I enjoy hitting the gym & learning business
+* 🧠  I'm currently learning Advanced Go, Networking Eng & Security/OffSec
+* ⚡  In my free time, I enjoy hitting the gym, working on side hustles & learning an array of topics through podcasts
 
 
 ### Skills
