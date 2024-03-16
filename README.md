@@ -9,7 +9,6 @@ I am a Software Developer | UX Designer
 * 🧠  I'm currently learning Advanced Go, Networking Eng & Security/OffSec
 * ⚡  In my free time, I enjoy hitting the gym, working on side hustles & learning an array of topics through podcasts
 
-
 ### Skills
 
 
