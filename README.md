@@ -6,7 +6,7 @@ Software<UX> Developer | Wannabe Blockchain Developer | Interaction Designer | P
 * 🌍  I'm based in Cape Town, SA
 * 🖥️  See my portfolio at [lucaliebenberg.com](http://lucaliebenberg.com)
 * ✉️  You can contact me at [liebenbergluca@gmail.com](mailto:liebenbergluca@gmail.com)
-* 🧠  I'm currently learning Rust fundamentals, Advanced Go, Advanced Smart Contract Development/Security & Smart Contract Auditing
+* 🧠  I'm currently learning Rust fundamentals, Advanced Go, Smart Contract Development/Security & Smart Contract Auditing
 * ⚡  In my free time, I enjoy hitting the gym, web2.0/3.0 hackathons & learning an array [business,entrepreneurship,sales,seo,marketing, ...] of topics through podcasts
 
 ### Skills
