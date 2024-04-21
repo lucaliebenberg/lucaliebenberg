@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software<UX> Developer | Wannabe Blockchain Developer | Interaction Designer | Part-time, Part-time Blogger
 
-* 🌍  I'm based in Cape Town, South Africa
+* 🌍  I'm based in Cape Town, SA
 * 🖥️  See my portfolio at [lucaliebenberg.com](http://lucaliebenberg.com)
 * ✉️  You can contact me at [liebenbergluca@gmail.com](mailto:liebenbergluca@gmail.com)
 * 🧠  I'm currently learning Rust fundamentals, Advanced Go, Advanced Smart Contract Development/Security & Smart Contract Auditing
