@@ -1,12 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luca Liebenberg
 =======================================================================================================================================
 
-Software<UX> Developer | Wannabe Blockchain Developer | Interaction Designer | Part-time, Part-time Blogger
-
 * 🌍  I'm based in Cape Town, SA
 * 🖥️  See my portfolio at [lucaliebenberg.com](http://lucaliebenberg.com)
 * ✉️  You can contact me at [liebenbergluca@gmail.com](mailto:liebenbergluca@gmail.com)
-* 🧠  I'm currently learning Rust, Advanced Go, Smart Contract Development/Security & Smart Contract Auditing
+* 🧠  I'm currently learning Rust, Advanced Go, Smart Contract Development/Security & Smart Contract Auditing (Ethereum, Solana, Aptos, ...more)
 * ⚡  In my free time, I enjoy hitting the gym, web2.0/3.0 hackathons & learning an array [business,entrepreneurship,sales,seo,marketing, ...] of topics through podcasts
 
 ### Skills
