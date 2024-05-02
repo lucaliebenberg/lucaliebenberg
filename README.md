@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🖥️  See my portfolio at [lucaliebenberg.com](http://lucaliebenberg.com)
 * ✉️  You can contact me at [liebenbergluca@gmail.com](mailto:liebenbergluca@gmail.com)
 * 🧠  I'm currently learning Rust, Advanced Go, Smart Contract Development/Security & Smart Contract Auditing (Ethereum, Solana, Aptos, ...more)
-* ⚡  In my free time, I enjoy hitting the gym, web2.0/3.0 hackathons & learning an array [business,entrepreneurship,sales,seo,marketing, ...] of topics through podcasts
+* ⚡  In my free time, I enjoy hitting the gym, web2.0/3.0 hackathons & learning an [business,entrepreneurship,sales,seo,marketing, ...] of topics through podcasts
 
 ### Skills
 
