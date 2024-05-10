@@ -1,10 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luca Liebenberg
 =======================================================================================================================================
 
-* 🌍  I'm based in Cape Town, SA
-* ✉️  You can contact me at [liebenbergluca@gmail.com](mailto:liebenbergluca@gmail.com)
 * 🧠  I'm currently learning Advanced Go, practical Rust, Smart Contract Development/Security & Smart Contract Auditing (Ethereum, Solana, Aptos, ...more)
-* ⚡  In my free time, I enjoy hitting the gym, web2.0/3.0 hackathons & learning an [business,entrepreneurship,sales,seo,marketing, ...] of topics through podcasts
+* ⚡  In my free time, I enjoy hitting the gym, web2.0/3.0 hackathons & learning an [blockchainbusiness,entrepreneurship,sales,seo,marketing, ...] of topics through podcasts
 
 ### Skills
 
