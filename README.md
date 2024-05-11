@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 
 * 🧠  I'm currently learning Advanced Go, practical Rust, Smart Contract Development/Security & Smart Contract Auditing (Ethereum, Solana, Aptos, ...more)
-* ⚡  In my free time, I enjoy hitting the gym, web2.0/3.0 hackathons & learning an [blockchainbusiness,entrepreneurship,sales,seo,marketing, ...] of topics through podcasts
+* ⚡  In my free time, I enjoy hitting the gym, web2.0/3.0 hackathons & learning an [blockchain, business,entrepreneurship,sales,seo,marketing, ...] of topics through podcasts
 
 ### Skills
 
