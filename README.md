@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luca Liebenberg
 =======================================================================================================================================
 
-* 🧠  I'm currently learning Advanced Go, practical Rust, Smart Contract Development/Security & Smart Contract Auditing (Ethereum, Solana, Aptos, ...more)
-* ⚡  In my free time, I enjoy hitting the gym, web2.0/3.0 hackathons & learning an [blockchain, business,entrepreneurship,sales,seo,marketing, ...] of topics through podcasts
+* 🧠  I'm currently learning Advanced Go, Smart Contract Development/Security & Smart Contract Auditing (Ethereum, Solana, Aptos, ...more)
+* ⚡  In my free time, I enjoy hitting the gym, web2.0/3.0 hackathons & learning an [blockchain, business,entrepreneurship, investing, stocks, sales,seo,marketing, ...] of topics through podcasts
 
 ### Skills
 
