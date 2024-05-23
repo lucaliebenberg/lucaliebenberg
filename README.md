@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠  I'm currently learning Advanced Go, Smart Contract Development/Security & Smart Contract Auditing (Ethereum, Solana, Aptos, ...more).<br>⚡  In my free time, I enjoy hitting the gym, web2.0 && web3.0 hackathons, meetups and learning an [blockchain, business, entrepreneurship, investing, stocks, sales, seo, marketing, ...] of topics through podcasts, books, meetups and courses.<br>
+🧠  I'm currently learning Advanced Go, Smart Contract Development/Security & Smart Contract Auditing (Ethereum, Solana, Aptos, ...more).<br>⚡  In my free time, I enjoy hitting the gym, web2.0 && web3.0 hackathons, meetups and learning an [blockchain, crypto, business, entrepreneurship, investing, stocks, sales, seo, marketing, ...] of topics through podcasts, books, meetups and courses.<br>
 
 
 ## 🌐 Socials:
