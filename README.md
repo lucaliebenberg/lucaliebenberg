@@ -19,6 +19,6 @@
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-![Lifetime Badge](https://img.shields.io/badge/Since-8A2BE2) ![Lifetime Badge](https://img.shields.io/badge/12_May_2024-blue)
+![Lifetime Badge](https://img.shields.io/badge/Since_12_May_2024-8A2BE2)
 <br/> <br/>
 ![](https://komarev.com/ghpvc/?username=lucaliebenberg)
