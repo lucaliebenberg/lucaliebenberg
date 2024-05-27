@@ -19,5 +19,6 @@
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-Lifetime: Since 12 May 2024 <br/> <br/>
+![Lifetime Badge](https://img.shields.io/badge/Since-8A2BE2) ![Lifetime Badge](https://img.shields.io/badge/12_May_2024-blue)
+<br/> <br/>
 ![](https://komarev.com/ghpvc/?username=lucaliebenberg)
