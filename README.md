@@ -20,7 +20,7 @@
 
 ---
 <p>
-  <img src="https://img.shields.io/badge/Since_12_May_2024-8A2BE2" alt="Lifetime Badge" style="display:inline; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/12_May_2024-8A2BE2" alt="Lifetime Badge" style="display:inline; margin-right: 10px;">
   <img src="https://komarev.com/ghpvc/?username=lucaliebenberg" alt="Profile Views" style="display:inline;">
 </p>
 
