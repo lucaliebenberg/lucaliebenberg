@@ -17,9 +17,3 @@
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
----
-<p>
-  <img src="https://komarev.com/ghpvc/?username=lucaliebenberg" alt="Profile Views" style="display:inline;">
-</p>
-
