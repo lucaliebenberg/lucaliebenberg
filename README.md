@@ -15,3 +15,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lucaliebenberg&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+ ![](https://komarev.com/ghpvc/?username=lucaliebenberg&label=Profile%20Visits&color=blue&style=for-the-badge)
