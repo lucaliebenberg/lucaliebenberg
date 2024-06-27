@@ -18,7 +18,7 @@
 </div>
 
 ## 🌐 Socials:
-[![lucaliebenberg](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luca-liebenberg/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucaliebenberg-%230077B5.svg?style=flat-square&logo=linkedin)](https://linkedin.com/in/luca-liebenberg/)
 [![lucaliebenberg.com](https://img.shields.io/badge/Website-lucaliebenberg.com-blue?style=flat-square&logo=appveyor)](https://lucaliebenberg.com/)
 [![lucaliebenberg](https://img.shields.io/badge/GitHub-lucaliebenberg-black?style=flat-square&logo=github)](https://github.com/lucaliebenberg)
 [![luca-blogs](https://img.shields.io/badge/Blog-luca--blogs.vercel.app-green?style=flat-square&logo=blogger)](https://luca-blogs.vercel.app/)
