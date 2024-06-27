@@ -9,10 +9,10 @@
     <p>
       🧠 I'm currently learning Advanced TypeScript & Golang, Cypress E2E Testing, Node, and Smart Contract Development/Security (Ethereum, Solana).<br>
       ⚡ In my free time, I enjoy hitting the gym, web3.0 hackathons, NeetCode, DSA, meetups, and learning various topics through podcasts, books, meetups, and courses.<br>
-      💻 Recently came 2nd and won the bug bounty for <strong><i>Igniting the Nature Backed Economy ReFi hackathon</i></strong> (Base network)
+      💻 Recently came 2nd and won the bug bounty for <strong><i>Igniting the Nature Backed Economy ReFi hackathon</i></strong> 
     </p>
   </div>
-  <div style="flex: 1; display: flex; justify-content: flex-end;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center; margin-left: auto; margin-right: auto;">
     <img src="https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif" alt="Hacker GIF" style="width: 100%;">
   </div>
 </div>
