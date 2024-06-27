@@ -2,6 +2,7 @@
 🧠 I'm currently learning Advanced TypeScript && Golang, Cypress E2E Testing, In's and Out's of Node and Smart Contract Development/Security (Ethereum, Solana).<br>⚡  In my free time, I enjoy hitting the gym, web3.0 hackathons, NeetCode, DSA, meetups and learning an [system eng, algorithms, blockchain, crypto, defi, defi security, business, entrepreneurship, investing, stocks, sales, ...] of topics through podcasts, books, meetups and courses.<br>
 💻 Recently came 2nd and won the bug bounty for <strong><i>Igniting the Nature Backed Economy ReFi hackathon</i></strong> (Base network)
 
+![Animated Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luca-liebenberg/) 
