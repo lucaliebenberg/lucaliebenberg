@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=lucaliebenberg&label=Profile%20Visits&color=blue&style=for-the-badge)
+
 
 <div style="display: flex; align-items: flex-start;">
 
@@ -14,8 +14,9 @@
   <div style="flex: 1;">
     <img src="https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif" alt="Hacker GIF" style="width: 100%;">
   </div>
-
 </div>
+
+![](https://komarev.com/ghpvc/?username=lucaliebenberg&label=Profile%20Visits&color=blue&style=for-the-badge/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luca-liebenberg/)
