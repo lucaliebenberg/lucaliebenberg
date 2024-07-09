@@ -44,7 +44,7 @@
 
 
 <div align='center'>
-  <h1>📊 GitHub Stats</h1>
+  <h1>📊 Stats</h1>
 </div>
 
 <div align="center">
