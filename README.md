@@ -42,6 +42,11 @@
 </div>
 
 <div align="center">
+
+  ![](https://github-profile-trophy.vercel.app/?lucaliebenberg=ryo-ma&column=3&margin-w=15&margin-h=15)
+  
+  
+  
   <img src="https://github-readme-stats.vercel.app/api?username=lucaliebenberg&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 200px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaliebenberg&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height: 200px;">
 </div>
