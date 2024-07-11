@@ -23,10 +23,7 @@
   <div style="flex: 1; display: flex; justify-content: center; align-items: center; margin-left: auto; margin-right: auto;">
    
   </div>
-  <div align='center'>
- <img src="https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif" alt="Hacker GIF" style="width: 100%;">
-    
-</div>
+
 </div>
 
 <div align='center'>
