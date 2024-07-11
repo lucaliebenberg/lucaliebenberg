@@ -19,6 +19,7 @@
       💻 Recently came 2nd and won the bug bounty for <strong><i>Igniting the Nature Backed Economy ReFi hackathon</i></strong> 
     </p>
   </div>
+  
   <div style="flex: 1; display: flex; justify-content: center; align-items: center; margin-left: auto; margin-right: auto;">
    
   </div>
