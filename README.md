@@ -1,7 +1,14 @@
-
+<h1 align="center"style="margin-top: 20;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;+->+King+Liebenberg+here+👑+....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 <div align='center'>
   <h1>🥷🏾 About Me</h1>
+  <div>
+    <img align="right" src="https://komarev.com/ghpvc/?username=lucaliebenberg&label=Profile%20Visits&color=blue&style=for-the-badge">  
+  </div>
 </div>
 
 <div style="display: flex; align-items: flex-start;">
@@ -19,12 +26,7 @@
  <img src="https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif" alt="Hacker GIF" style="width: 100%;">
 
  <div align=center> 
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Facts:+;Love+joking,+got+a+great+sense+of+humor.+LOL!!!+;LOOOOOOOL+;" alt="Fun Facts" /> 
-  
-   
-   ![](https://komarev.com/ghpvc/?username=lucaliebenberg&label=Profile%20Visits&color=blue&style=for-the-badge)
-
-   
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Facts:+;Love+joking,+got+a+great+sense+of+humor.+LOL!!!+;LOOOOOOOL+;" alt="Fun Facts" /> 
 </div>
     
 </div>
@@ -51,4 +53,10 @@
     
   <img src="https://github-readme-stats.vercel.app/api?username=lucaliebenberg&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 200px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaliebenberg&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height: 200px;">
+</div>
+
+<div align='center'>
+  <h4 align="center">
+    <a href="https://github.com/lucaliebenberg?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  </h4>
 </div>
