@@ -22,7 +22,7 @@
   <div style="flex: 1;">
     <p>
       🧠 I'm currently learning Enterprise UI Testing, Design Systems Testing, Accessibility and of course - NeetCode 😎<br/>
-      ⚡ In my free time, I enjoy hitting the gym, web3.0 hackathons, NeetCode, DSA, CS, meetups, and learning various topics through podcasts, books, meetups, and courses.<br>
+      🎯 In my free time, I enjoy hitting the gym, web3.0 hackathons, NeetCode, DSA, CS, meetups, and learning various topics through podcasts, books, meetups, and courses.<br>
       💻 Recently came 2nd and won the bug bounty for <strong><i>Igniting the Nature Backed Economy ReFi hackathon</i></strong> 
     </p>
   </div>
@@ -33,8 +33,8 @@
 
 </div>
 
-<div align='center'>
-  <h1>📊 Stats</h1>
+<div align='center'>    
+  <h1>⚡️ Stats</h1>
 </div>
 
 <div align="center">
