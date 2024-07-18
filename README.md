@@ -12,6 +12,8 @@
 [![lucaliebenberg](https://img.shields.io/badge/GitHub-lucaliebenberg-black?style=flat-square&logo=github)](https://github.com/lucaliebenberg)
 [![lucaliebenberg.com](https://img.shields.io/badge/Website-lucaliebenberg.com-blue?style=flat-square&logo=appveyor)](https://lucaliebenberg.com/)
 
+<br/><br/>
+
 </div>
   <div>
     <img align="right" src="https://komarev.com/ghpvc/?username=lucaliebenberg&label=Profile%20Visits&color=blue&style=for-the-badge">  
@@ -37,15 +39,17 @@
 
 </div>
 
-<div align='center'>
-  <h4 align="center">
-    <a href="https://github.com/lucaliebenberg?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-  </h4>
-</div>
+<br/>
 
 <div align='center'>
   <h1>🤡 Fun Facts</h1>
 </div>
  <div align=center> 
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=1:+Love+joking,+got+a+great+sense+of+humor.+LOL!!!+;2:+Can+rip+it+on+the+sax+🎷+;3:+Love+hitting+the+iron+jungle!🏋🏽‍♂️;+4:+Love+prawn+sushi+🍣;" alt="Fun Facts" /> 
+</div>
+<br/><br/>
+<div align='center'>
+  <h4 align="center">
+    <a href="https://github.com/lucaliebenberg?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  </h4>
 </div>
