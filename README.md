@@ -33,14 +33,8 @@
 
 </div>
 
-<div align='center'>    
-  <h1>⚡️ Stats</h1>
-</div>
-
 <div align="center">
-    
-  <img src="https://github-readme-stats.vercel.app/api?username=lucaliebenberg&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 200px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaliebenberg&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height: 200px;">
+
 </div>
 
 <div align='center'>
