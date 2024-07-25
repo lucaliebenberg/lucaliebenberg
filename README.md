@@ -45,7 +45,7 @@
   <h1>🤡 Fun Facts</h1>
 </div>
  <div align=center> 
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=1:+Love+joking,+got+a+great+sense+of+humor.+🤡+;2:+Can+rip+it+on+the+sax+🎷+;3:+Love+hitting+the+iron+jungle!🏋🏽‍♂️;+4:+Love+prawn+sushi+🍣;" alt="Fun Facts" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=1:+Love+joking,+got+a+great+sense+of+humor+🤡+;2:+Can+rip+it+on+the+sax+🎷+;3:+Love+hitting+the+iron+jungle!🏋🏽‍♂️;+4:+Love+prawn+sushi+🍣;" alt="Fun Facts" /> 
 </div>
 <br/><br/>
 <div align='center'>
