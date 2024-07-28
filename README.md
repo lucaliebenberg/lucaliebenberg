@@ -23,7 +23,8 @@
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
     <p>
-      🧠 Currently learning Tree, Graph & DP DSA, System Design and NeetCode::LeetCode <br/>
+      🧠 Currently learning System Design, Backend Architecture, API Unit Testing + NeetCode::LeetCode <br/>
+      👨🏽‍💻 Currently shifting Tree & Graph & DSA on a daily basis <br/>
       🎯 In my free time, I enjoy hitting the gym, web3.0 hackathons, NeetCode, DSA, CS, meetups, and learning various topics through podcasts, books, meetups, and courses.<br>
       💻 Recently came 2nd and won the bug bounty for <strong><i>Igniting the Nature Backed Economy ReFi hackathon</i></strong> 
     </p>
