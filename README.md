@@ -26,7 +26,6 @@
       🧠 Currently learning System Design, Backend Architecture, API Unit Testing, NGINX + NeetCode <br/>
       👨🏽‍💻 Currently shifting Tree & Graph DSA on a daily basis + Post It <br/>
       🎯 In my free time, I enjoy hitting the gym, web3.0 hackathons, NeetCode, DSA, CS, meetups, and learning various topics through podcasts, books, meetups, and courses.<br>
-      💻 Recently came 2nd and won the bug bounty for <strong><i>Igniting the Nature Backed Economy ReFi hackathon</i></strong> 
     </p>
   </div>
   
