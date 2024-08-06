@@ -23,8 +23,8 @@
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
     <p>
-      🧠 Currently learning System Design, Frontend System Design, API Unit Testing, NGINX + NeetCode <br/>
-      👨🏽‍💻 On a daily basis: shifting Tree & Graph DSA + Post It <br/>
+      🧠 Currently learning System Design, Frontend System Design, API Unit Testing and NGINX<br/>
+      👨🏽‍💻 On a daily basis: shifting Tree, Graph, Heap DSA && Post It && NeetCode <br/>
       🎯 In my free time, I enjoy hitting the gym, web3.0 hackathons, NeetCode, DSA, CS, meetups, and learning various topics through podcasts, books, meetups, and courses.<br>
     </p>
   </div>
