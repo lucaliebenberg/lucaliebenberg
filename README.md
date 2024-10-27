@@ -24,7 +24,7 @@
   <div style="flex: 1;">
     <p>
       🧠 Currently learning System Design, Frontend System Design and Product Development<br/>
-      👨🏽‍💻 On a daily basis: shifting Computer Science, DSA, Post It && NeetCode <br/>
+      👨🏽‍💻 On a daily basis: shifting Computer Science, DSA, LeetCode && NeetCode <br/>
       🎯 In my free time, I enjoy hitting the gym, web3.0 hackathons, NeetCode, DSA, CS, meetups, and learning various topics through podcasts, books, meetups, and courses.<br>
     </p>
   </div>
