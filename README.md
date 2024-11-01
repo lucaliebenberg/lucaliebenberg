@@ -25,7 +25,7 @@
     <p>
       🧠 Currently learning System Design, Frontend System Design and Product Development<br/>
       👨🏽‍💻 On a daily basis: shifting Computer Science, DSA, LeetCode && NeetCode <br/>
-      🎯 In my free time, I enjoy hitting the gym, web3.0 hackathons, NeetCode, DSA, CS, meetups, and learning various topics through podcasts, books, meetups, and courses.<br>
+      🎯 In my free time, I enjoy activities such as -> hitting the gym, hackathons<web2.0|web3.0>, personal toy projects, Neetcode, Leetcode, DSA, CS, startup meetups, tech event and learning various topics through podcasts, books,  and courses.<br>
     </p>
   </div>
   
