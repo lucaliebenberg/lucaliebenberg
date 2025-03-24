@@ -23,9 +23,8 @@
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
     <p>
-      🧠 Currently learning End-to-End System Design, Computer Science, Smooth Jazz on Alto Sax and Cloud Development<br/>
-      👨🏽‍💻 On a daily basis: shifting Computer Science, DSA, LeetCode && NeetCode <br/>
-      🎯 In my free time, I enjoy activities such as -> hitting the gym, hackathons<web2.0|web3.0>, personal toy projects, Neetcode, Leetcode, DSA, CS, startup meetups, tech event and learning various topics through podcasts, books,  and courses.<br>
+      🧠 Currently learning React Flow, Computer Science and Cloud Development<br/>
+      🎯 In my free time, I enjoy activities such as -> hitting the gym, hackathons<web2.0|web3.0>, personal toy projects, Neetcode, Leetcode, DSA, CS, startup meetups, tech event and learning various topics through podcasts, books, and courses.<br>
     </p>
   </div>
   
