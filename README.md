@@ -23,7 +23,7 @@
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
     <p>
-      🧠 Currently learning p5.js, Service Workers and Cloud Development<br/>
+      🧠 Currently learning p5.js + p5.sound.js, Service Workers and Cloud Development<br/>
       🎯 In my free time, I enjoy activities such as -> hitting the gym, hackathons<web2.0|web3.0>, personal toy projects, Neetcode, Leetcode, DSA, CS, startup meetups, tech event and learning various topics through podcasts, books, and courses.<br>
     </p>
   </div>
