@@ -23,8 +23,7 @@
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
     <p>
-      🧠 Currently learning p5.js + p5.sound.js, Service Workers and Cloud Development<br/>
-      🎯 In my free time, I enjoy activities such as -> hitting the gym, hackathons<web2.0|web3.0>, personal toy projects, Neetcode, Leetcode, DSA, CS, startup meetups, tech event and learning various topics through podcasts, books, and courses.<br>
+      🔨 Building AttriFlow
     </p>
   </div>
   
@@ -55,12 +54,6 @@
   </div>
 <br/>
 
-<div align='center'>
-  <h1> Fun Facts 🤡</h1>
-</div>
- <div align=center> 
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=1:+Love+joking,+have+a+great+sense+of+humor+🤡+;2:+Can+rip+it+on+the+sax+🎷+;3:+Love+hitting+the+iron+jungle!🏋🏽‍♂️;+4:+Love+prawn+sushi+🍣;+5:+Im+addicted+to+NeetCode+🤓+;" alt="Fun Facts" /> 
-</div>
 <br/><br/>
 <div align='center'>
   <h4 align="center">
