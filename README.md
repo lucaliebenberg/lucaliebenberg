@@ -1,7 +1,4 @@
 <div align='center'>
-  <h1> Luca Liebenberg 🥷🏾</h1>
-  <div align='center'>
-<br/><br/>
 
 </div>
   <div>
