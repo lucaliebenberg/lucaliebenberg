@@ -1,11 +1,5 @@
 <div align='center'>
 
-</div>
-  <div>
-    <img align="right" src="https://komarev.com/ghpvc/?username=lucaliebenberg&label=Profile%20Visits&color=blue&style=for-the-badge">  
-  </div>
-</div>
-
 <div style="display: flex; align-items: center;">
 
       🔨 Building AttriFlow
