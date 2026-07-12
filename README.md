@@ -24,7 +24,6 @@ alt="Profile views"
 
 ```typescript
 class Luca {
-  role = "Software Engineer • AI Engineer • Product Enthusiast"
 
   location = "Cape Town, South Africa 🇿🇦"
 
