@@ -9,13 +9,6 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=2
 alt="Typing animation"
 />
 
-<br/>
-
-<img
-src="https://komarev.com/ghpvc/?username=lucaliebenberg&style=flat-square&color=4CAF50"
-alt="Profile views"
-/>
-
 </div>
 
 ---
