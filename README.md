@@ -2,8 +2,6 @@
 
 # 👋 Hey, I'm Luca Liebenberg
 
-### Software Engineer -> AI Engineer • Product Enthusiast
-
 <img
 src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=4CAF50&center=true&vCenter=true&width=700&lines=Building+AI+Products;Creating+LLM+Applications;Designing+Developer+Tools;Shipping+Ideas+Into+Reality"
 alt="Typing animation"
@@ -13,11 +11,12 @@ alt="Typing animation"
 
 ---
 
-## About Me
-
 ```typescript
+# About Me
+
 class Luca {
 
+  role = "Software Engineer -> AI Engineer • Product Enthusiast"
   location = "Cape Town, South Africa 🇿🇦"
 
   building = [
