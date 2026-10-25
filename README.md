@@ -11,7 +11,7 @@
 
 class Luca {
 
-  role = "Software Engineer -> AI Engineer • Product Enthusiast"
+  role = "AI Engineer • Product Enthusiast"
   location = "Cape Town, South Africa 🇿🇦"
 
   building = [
